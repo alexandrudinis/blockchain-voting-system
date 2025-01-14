@@ -1,0 +1,11 @@
+Enrollments: pe dev: 
+https://strong.bmw.com/login
+
+Pe int: 
+https://imucaaf.bmwgroup.net:8443/login
+
+q account
+yubykey
+pin
+
+
